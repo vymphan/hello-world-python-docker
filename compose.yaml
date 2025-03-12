@@ -1,0 +1,6 @@
+services:
+  app:
+    image: veeph/hello-world-python
+    stdin_open: true
+    tty: true
+  
